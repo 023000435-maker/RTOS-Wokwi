@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = "../src/starvation-demo2/build/starvation-demo2.elf"
-elf = "../shttps://codeshare.io/src/starvation-demo2/build/starvation-demo2.elf"
+firmware = "../src/race-condition-demo/build/race-condition-demo.elf"
+elf = "../shttps://codeshare.io/src/race-condition-demo/build/race-condition-demo.elf"
